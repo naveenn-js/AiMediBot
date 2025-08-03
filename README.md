@@ -14,7 +14,7 @@ This is a Streamlit-based **AI-powered Mental Health Support Chatbot** designed 
 - 🧹 Clear chat history button
 - 📤 Real-time chat using Streamlit and session states
 - 🖼️ Custom background image support
-
+- Live Demo :https://aimedica.streamlit.app/
 ---
 
 ## 🛠️ Tech Stack
