@@ -1,0 +1,9 @@
+# Ignore SSH keys and sensitive files
+*.pem
+*.key
+id_ed25519*
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
